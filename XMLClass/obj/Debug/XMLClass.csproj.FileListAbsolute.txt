@@ -1,0 +1,9 @@
+C:\Users\admin\Desktop\XMLClass\bin\Debug\XMLClass.dll
+C:\Users\admin\Desktop\XMLClass\bin\Debug\XMLClass.pdb
+C:\Users\admin\Desktop\XMLClass\obj\Debug\XMLClass.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\XMLClass\obj\Debug\XMLClass.dll
+C:\Users\admin\Desktop\XMLClass\obj\Debug\XMLClass.pdb
+C:\Users\admin\Desktop\XMLSerialization\XMLClass\bin\Debug\XMLClass.dll
+C:\Users\admin\Desktop\XMLSerialization\XMLClass\bin\Debug\XMLClass.pdb
+C:\Users\admin\Desktop\XMLSerialization\XMLClass\obj\Debug\XMLClass.dll
+C:\Users\admin\Desktop\XMLSerialization\XMLClass\obj\Debug\XMLClass.pdb

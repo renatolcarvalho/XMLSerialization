@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\XMLSerialize\bin\XMLSerialize.dll.config
+C:\Users\admin\Desktop\XMLSerialize\bin\XMLSerialize.dll
+C:\Users\admin\Desktop\XMLSerialize\bin\XMLSerialize.pdb
+C:\Users\admin\Desktop\XMLSerialize\obj\Debug\XMLSerialize.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\XMLSerialize\obj\Debug\XMLSerialize.dll
+C:\Users\admin\Desktop\XMLSerialize\obj\Debug\XMLSerialize.pdb
+C:\Users\admin\Desktop\XMLSerialize\bin\XMLClass.dll
+C:\Users\admin\Desktop\XMLSerialize\bin\XMLClass.pdb
+C:\Users\admin\Desktop\XMLSerialization\obj\Debug\XMLSerialize.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\XMLSerialization\obj\Debug\XMLSerialize.dll
+C:\Users\admin\Desktop\XMLSerialization\bin\XMLSerialize.dll.config
+C:\Users\admin\Desktop\XMLSerialization\bin\XMLSerialize.dll
+C:\Users\admin\Desktop\XMLSerialization\bin\XMLSerialize.pdb
+C:\Users\admin\Desktop\XMLSerialization\bin\XMLClass.dll
+C:\Users\admin\Desktop\XMLSerialization\bin\XMLClass.pdb
+C:\Users\admin\Desktop\XMLSerialization\obj\Debug\XMLSerialize.pdb
